@@ -7,7 +7,7 @@
 
 const config={
     // REQUIRED only for Federated Authentication - Amazon Cognito Identity Pool ID
-    identityPoolId: 'us-east-1:b0ffc4fb-251b-4d94-9a54-d98d6d4c5677',
+    identityPoolId: 'us-east-1:7a695e31-3d99-40bb-b430-84d9936cc3f6',
     
     // REQUIRED - Amazon Cognito Region
     region: 'US_EAST_1',
@@ -17,9 +17,9 @@ const config={
     identityPoolRegion: 'US_EAST_1',
 
     // OPTIONAL - Amazon Cognito User Pool ID
-    userPoolId: 'us-east-1_VKlvOY3no',
+    userPoolId: ' us-east-1_9evlVxVpd',
 
     // OPTIONAL - Amazon Cognito Web Client ID (26-char alphanumeric string)
-    userPoolWebClientId: '5i9npdo4bg9cpqvco3mrnhtf3r',
+    userPoolWebClientId: '6kcerlar4pfaeho21ca2fu8qar',
 }
 export default config
