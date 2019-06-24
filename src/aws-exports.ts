@@ -17,7 +17,7 @@ const config={
     identityPoolRegion: 'US_EAST_1',
 
     // OPTIONAL - Amazon Cognito User Pool ID
-    userPoolId: ' us-east-1_9evlVxVpd',
+    userPoolId: 'us-east-1_9evlVxVpd',
 
     // OPTIONAL - Amazon Cognito Web Client ID (26-char alphanumeric string)
     userPoolWebClientId: '6kcerlar4pfaeho21ca2fu8qar',
